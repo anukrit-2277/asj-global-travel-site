@@ -104,7 +104,7 @@ const Index = () => {
     {/* Logo */}
     <div className="flex justify-center mb-6">
       <a href="#" className="flex items-center">
-        <img src="src\assets\company_logo.png" alt="Logo" className="h-40 w-30 object-contain" />
+        <img src="src\assets\logo_modified.png" alt="Logo" className="h-40 w-30 object-contain" />
       </a>
     </div>
 
