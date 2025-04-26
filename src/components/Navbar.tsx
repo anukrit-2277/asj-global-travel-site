@@ -13,7 +13,7 @@ const Navbar = () => {
         {/* Logo and Brand */}
         <div className="flex items-center space-x-3">
           <a href="#" className="flex items-center">
-            <img src="src\assets\logo_modified.png" alt="Logo" className="h-10 w-10 object-contain" />
+            <img src="src/assets/logo_modified.png" alt="Logo" className="h-10 w-10 object-contain" />
           </a>
           <span className="text-xl font-playfair font-bold text-gray-800">ASJ Global</span>
         </div>

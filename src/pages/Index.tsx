@@ -63,7 +63,7 @@ const Index = () => {
   <a href="#" className="block h-full">
     <div className="bg-gray-200 h-2/3 w-full flex items-center justify-center">
       <img 
-        src="src\assets\suv.png" 
+        src="src/assets/suv.png" 
         alt="Car Logo" 
         className="object-contain w-5/6 h-5/6"
       />
@@ -80,7 +80,7 @@ const Index = () => {
   <a href="#" className="block h-full">
     <div className="bg-gray-200 h-2/3 w-full flex items-center justify-center">
       <img 
-        src="src\assets\van_2 .png" 
+        src="src/assets/van_2 .png" 
         alt="Car Logo" 
         className="object-contain w-5/6 h-5/6"
       />
@@ -104,7 +104,7 @@ const Index = () => {
     {/* Logo */}
     <div className="flex justify-center mb-6">
       <a href="#" className="flex items-center">
-        <img src="src\assets\logo_modified.png" alt="Logo" className="h-40 w-30 object-contain" />
+        <img src="src/assets/logo_modified.png" alt="Logo" className="h-40 w-30 object-contain" />
       </a>
     </div>
 
