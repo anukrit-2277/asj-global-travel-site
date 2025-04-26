@@ -110,7 +110,7 @@ const Index = () => {
 
     <h2 className="text-3xl font-playfair font-bold mb-8 text-center">Contact Us</h2>
     
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-4xl mx-auto">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-4xl mx-auto">
       <div className="flex items-center justify-center md:justify-start space-x-3">
         <Phone className="w-5 h-5" />
         <span>+91 8949976673</span>
@@ -123,10 +123,13 @@ const Index = () => {
         <MapPin className="w-5 h-5" />
         <span>Jaipur, Rajasthan</span>
       </div>
-      <div className="flex items-center justify-center md:justify-start space-x-6">
+      {
+      /*<div className="flex items-center justify-center md:justify-start space-x-6">
         <a href="#" className="hover:text-gray-300">Facebook</a>
         <a href="#" className="hover:text-gray-300">Instagram</a>
       </div>
+      */
+      }
     </div>
 
     <div className="text-center mt-8 pt-8 border-t border-gray-800">
